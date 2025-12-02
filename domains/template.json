@@ -1,14 +1,14 @@
-{   "title": "Title of the Website", (When registering your domain please remove all the text I added to explain to you how to register a subdomain, this included)
+{   "title": "swatopia", (When registering your domain please remove all the text I added to explain to you how to register a subdomain, this included)
     "description": "Project / Website / Server Description",
-    "domain": "creepers.sbs/creepers.cloud", (choose which one you want to use first, you can ask for the other one in another pull [more domains in the future])
-    "subdomain": "example", (in this case there should be template as this fiel is always the exact same as the file name)
+    "domain": "swatopia.cloud", (choose which one you want to use first, you can ask for the other one in another pull [more domains in the future])
+    "subdomain": "swatopia", (in this case there should be template as this fiel is always the exact same as the file name)
 
 "country_code": "none", (this decides if your domain will go under any iso2 country code subdomain, such as 'en.domain.tld' 'it.domain.tld' etc... 
     if you type 'none' your domain will be put under the main route under the domain...so yourdomain.creepers.cloud/sbs)
     
     "owner": {
-        "github_user": "https://github.com/username", (required, has to be the one who's making the request)
-        "email": "cool_email@anywebsite.tld", (to text you if we have to take action on your domain, like take it down for illegal actions or xxx content [which is not allowed])
+        "github_user": "https://github.com/username/ayany5", (required, has to be the one who's making the request)
+        "email": "ayanyousaf2703@gmail.com", (to text you if we have to take action on your domain, like take it down for illegal actions or xxx content [which is not allowed])
         "discord": "optional" (this '@username' field is optional...but can be another usefull way to contact / be contacted by the support. Especially to transfer the subdomain to another person. 
 If you add this field you'll be contacted/can contact the support only if you're on the official CreeperHUB discord server) 
     }, (then choose the records among A / AAAA / CNAME / NS / MX / TXT / etc... )                              
